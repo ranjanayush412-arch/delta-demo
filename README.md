@@ -4,5 +4,5 @@ this is demo for git &amp; github.
 # my name 
 mohit kumar
 
-# surname 
+# another name 
  ayush ranjan 
